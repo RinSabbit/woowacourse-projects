@@ -12,7 +12,7 @@
 
 ### 기간
 
-- 2020.02.04 ~ 2020.04.10
+- 2021.02.03 ~ 2021.04.02
 
 ### 학습 목표
 
@@ -25,10 +25,10 @@
 
 |     Project      |                          Repository                          |                                                       Code Review                                                        |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
-| 자동차 경주 게임 | [java-racingcar](https://github.com/woowacourse/java-racingcar/tree/woonjangahn) |                          [Pull Request](https://github.com/woowacourse/java-racingcar/pull/69)                           |
-|       로또       |     [java-lotto](https://github.com/woowacourse/java-lotto/tree/woonjangahn)     |  [Step 1](https://github.com/woowacourse/java-lotto/pull/114) / [2](https://github.com/woowacourse/java-lotto/pull/169)  |
-|      블랙잭      | [java-blackjack](https://github.com/woowacourse/java-blackjack/tree/woonjangahn) | [Step 1](https://github.com/woowacourse/java-blackjack/pull/19) / [2](https://github.com/woowacourse/java-blackjack/pull/86) |
-|       체스       |     [java-chess](https://github.com/woowacourse/java-chess/tree/woonjangahn)     |  [Step 1](https://github.com/woowacourse/java-chess/pull/68) / [2](https://github.com/woowacourse/java-chess/pull/109)   |
+| 자동차 경주 게임 | [java-racingcar](https://github.com/woowacourse/java-racingcar/tree/rinsabbit) |  [Step 1](https://github.com/woowacourse/java-racingcar/pull/173) / [2](https://github.com/woowacourse/java-racingcar/pull/232)  |
+|       로또       |     [java-lotto](https://github.com/woowacourse/java-lotto/tree/rinsabbit)     |  [Step 1](https://github.com/woowacourse/java-lotto/pull/238) / [2](https://github.com/woowacourse/java-lotto/pull/299)  |
+|      블랙잭      | [java-blackjack](https://github.com/woowacourse/java-blackjack/tree/rinsabbit) | [Step 1](https://github.com/woowacourse/java-blackjack/pull/149) / [2](https://github.com/woowacourse/java-blackjack/pull/188) |
+|       체스       |     [java-chess](https://github.com/woowacourse/java-chess/tree/rinsabbit)     |  [Step 1](https://github.com/woowacourse/java-chess/pull/209) / [2](https://github.com/woowacourse/java-chess/pull/249)   |
 
 <br/>
 
@@ -36,7 +36,7 @@
 
 ### 기간
 
-- 2020.04.21 ~ 2020.06.19
+- 2021.04.13 ~ 2021.06.04
 
 ### 학습 목표
 
@@ -49,11 +49,10 @@
 
 |       Project        |                                        Repository                                         |                                                                                                            Code Review                                                                                                             |
 | :------------------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|         체스         |                    [jwp-chess](https://github.com/woowacourse/jwp-chess/tree/woonjangahn)                     | [Step 1](https://github.com/woowacourse/jwp-chess/pull/2) / [2](https://github.com/woowacourse/jwp-chess/pull/17) / [3](https://github.com/woowacourse/jwp-chess/pull/60) / [4](https://github.com/woowacourse/jwp-chess/pull/123) |
-|   지하철 정보 관리   |            [atdd-subway-admin](https://github.com/woowacourse/atdd-subway-admin/tree/woonjangahn)             |                                                                              [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/30)                                                                              |
-|   지하철 경로 조회   |             [atdd-subway-path](https://github.com/woowacourse/atdd-subway-path/tree/woonjangahn)              |                                                                               [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/1)                                                                               |
-| 지하철 경로 즐겨찾기 |         [atdd-subway-favorite](https://github.com/woowacourse/atdd-subway-favorite/tree/woonjangahn)          |                                                                            [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/10)                                                                             |
-|    사용자 이야기     | [woowa-userstory-2020](https://github.com/woowacourse/woowa-userstory-2020/tree/woonjangahn) |                                                                             [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/1)                                                                             |
+|         체스         |                    [jwp-chess](https://github.com/woowacourse/jwp-chess/tree/rinsabbit)                     | [Step 1](https://github.com/woowacourse/jwp-chess/pull/236) / [2](https://github.com/woowacourse/jwp-chess/pull/288)      |
+|   지하철 노선도 관리   |            [atdd-subway-map](https://github.com/woowacourse/atdd-subway-map/tree/rinsabbit)             |                                                                              [Step 1](https://github.com/woowacourse/atdd-subway-map/pull/74) / [2](https://github.com/woowacourse/atdd-subway-map/pull/149)                                                                                    |
+|   지하철 경로 조회   |             [atdd-subway-path](https://github.com/woowacourse/atdd-subway-path/tree/rinsabbit)              |                                                                               [Step 1](https://github.com/woowacourse/atdd-subway-path/pull/79) / [2](https://github.com/woowacourse/atdd-subway-path/pull/119)                                                                               |
+| 지하철 요금 + 협업 |         [atdd-subway-fare](https://github.com/woowacourse/atdd-subway-fare/tree/rinsabbit)          |                                                                              [Pull Request](https://github.com/woowacourse/atdd-subway-fare/pull/9)                                                                             |
 
 <br/>
 
@@ -61,7 +60,7 @@
 
 ### 기간
 
-- 2020.07.07 ~ 2020.08.28
+- 2021.06.22 ~ 2020.08.13
 
 ### 학습 목표
 
@@ -70,26 +69,26 @@
 
 ### 진행 미션
 
-#### 👨‍💻 [Slide.md](https://slidemd.com) : Beautiful, Minimal Slides with Markdown
+#### 👨‍💻 [여기서 만나](https://seeyouthere.co.kr) : 어디서 만나? 여기서 만나!
 
 **서비스**
 
-- [Slide.md](https://slidemd.com)
+- [여기서 만나](https://seeyouthere.co.kr/)
 
 **Github Repository**
 
-- [2020-zeze](https://github.com/woowacourse-teams/2020-zeze)
-- [Issues](https://github.com/woowacourse-teams/2020-zeze/issues)
-- [Pull Requests](https://github.com/woowacourse-teams/2020-zeze/pulls)
+- [2021-see-you-there](https://github.com/woowacourse-teams/2021-see-you-there)
+- [Issues](https://github.com/woowacourse-teams/2021-see-you-there/issues)
+- [Pull Requests](https://github.com/woowacourse-teams/2021-see-you-there/pulls?q=is%3Apr+is%3Aclosed)
 
 **Demo**
 
-- [프로젝트 기획](https://github.com/woowacourse-teams/2020-zeze/wiki/Project-Plan) / [팀 문화](https://github.com/woowacourse-teams/2020-zeze/wiki/Team-Culture)
-- [1차 데모 영상: 팀 문화 및 이슈 발표](https://www.youtube.com/watch?v=XcKIlsWAd10)
-- [2차 데모 영상: 프로토타입 및 빌드/배포 자동화 발표](https://www.youtube.com/watch?v=VLnIZ6oGKbs)
-- [4차 데모 영상: 8주간의 팀 프로젝트 회고](https://www.youtube.com/watch?v=KVNRJ9ONM1Y)
-- [홍보 영상](https://www.youtube.com/watch?v=ZcFQoPsrsRk)
-- [프로그래밍 커뮤니티 <생활코딩> 홍보 게시물 (Facebook)](https://www.facebook.com/groups/codingeverybody/?multi_permalinks=4555458237828010)
+- [1차 데모 영상: 팀 문화 및 이슈 발표](https://youtu.be/eNDTbh6q8h4)
+- [2차 데모 영상: 프로토타입, 브랜치 전략, API 설계 발표](https://youtu.be/7vFGSX2K-nw)
+- [3차 데모 영상: 빌드/배포/테스트 자동화 발표](https://youtu.be/vzAw3ACZ_SA)
+- [4차 데모 영상: 정적 분석, 성능 리포트 발표](https://youtu.be/bUScDb_M1B8)
+- [5차 데모 영상: 추가된 기능 및 성능 개선 발표](https://youtu.be/h6XROPKDXvk)
+- [홍보 영상](https://youtu.be/UB20efOr1Pc)
 
 <br/>
 
@@ -97,7 +96,7 @@
 
 ### 기간
 
-- 2020.09.08 ~ 2020.11.27
+- 2021.08.24 ~ 2021.10.29
 
 ### 학습 목표
 
@@ -111,8 +110,11 @@
 
 |     Project      |                          Repository                          |                                                       Code Review                                                        |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
-| 웹 어플리케이션 서버 **(미완성)** | [jwp-was](https://github.com/woowacourse/jwp-was/tree/kimhodol) |                          [Step 1](https://github.com/woowacourse/jwp-was/pull/192)                           |
-|       리팩토링 **(미완성)**       |     [jwp-refactoring](https://github.com/woowacourse/jwp-refactoring/tree/kimhodol)     |  [Step 1](https://github.com/woowacourse/jwp-refactoring/pull/78)  |
+| HTTP 서버 구현하기 | [jwp-dashboard-http](https://github.com/woowacourse/jwp-dashboard-http/tree/rinsabbit) |                          [Step 1](https://github.com/woowacourse/jwp-dashboard-http/pull/49) / [2](https://github.com/woowacourse/jwp-dashboard-http/pull/101)                           |
+|       MVC 구현하기      |     [jwp-dashboard-mvc](https://github.com/woowacourse/jwp-dashboard-mvc/tree/rinsabbit)     |  [Step 1](https://github.com/woowacourse/jwp-dashboard-mvc/pull/39) / [2](https://github.com/woowacourse/jwp-dashboard-mvc/pull/83)  |
+|       JDBC 라이브러리 구현하기      |     [jwp-dashboard-jdbc](https://github.com/woowacourse/jwp-dashboard-jdbc/tree/rinsabbit)     |  [Step 1](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/14) / [2](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/32)  |
+|       레거시 코드 리팩토링(미완성)      |     [jwp-refactoring](https://github.com/woowacourse/jwp-refactoring/tree/rinsabbit)     |  [Step 1](https://github.com/woowacourse/jwp-refactoring/pull/112) / [2](https://github.com/woowacourse/jwp-refactoring/pull/121)  | 
+|       조회 성능 개선하기      |     [sql-tuning](https://github.com/woowacourse/sql-tuning/tree/rinsabbit)     |  [Pull Request](https://github.com/woowacourse/sql-tuning/pull/34)  |
 
 <br/>
 
